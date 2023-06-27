@@ -1,0 +1,6 @@
+5;5;5;5;5
+3;3;3;3;3
+9;9;9;9;9
+placa1;modelo1;fabricante;5;cor1
+placa2;modelo2;fabricante3;5;cor2
+abc;def;jkl;5532;ghi
